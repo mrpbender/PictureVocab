@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Picture Vocab",
+"dataUrl": "mrpbender.github.io.data.unityweb",
+"asmCodeUrl": "mrpbender.github.io.asm.code.unityweb",
+"asmMemoryUrl": "mrpbender.github.io.asm.memory.unityweb",
+"asmFrameworkUrl": "mrpbender.github.io.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
